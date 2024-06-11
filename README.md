@@ -34,7 +34,7 @@ CSV, JSON and Apache Arrow file formats are provided for convenience's sake. You
 
 ## Model benchmark
 
-Coming soon.
+Click [here](./model_benchmark/README.md).
 
 ## Download
 
